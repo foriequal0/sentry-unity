@@ -2,7 +2,7 @@ using System;
 using System.Runtime.InteropServices;
 using Sentry.Extensibility;
 
-namespace Sentry.Unity
+namespace Sentry.Unity.Native
 {
     /// <summary>
     /// Scope Observer for Native through P/Invoke.
